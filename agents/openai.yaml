@@ -1,0 +1,5 @@
+interface:
+  display_name: "Selcom Integration"
+  short_description: "Selcom API payment integration"
+  default_prompt: "Use $selcom-integration to implement or debug a Selcom payment flow."
+
